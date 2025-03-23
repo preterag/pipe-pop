@@ -125,7 +125,6 @@ During installation, you'll be prompted to enter your Solana wallet public key. 
 If you don't have a Solana wallet, you can:
 1. Skip the wallet setup during installation
 2. Set up a wallet later using: `pop --pubKey <YOUR_WALLET>`
-3. Follow our guide to create a Solana wallet: https://docs.surrealine.com/wallet-guide
 
 ## Update Process
 
@@ -160,14 +159,9 @@ cd /var/lib/pop  # Example location
 - At least 4GB of RAM
 - At least 100GB of disk space
 
-## Support
-
-For support and updates, visit:
-https://surrealine.com
-
 ## License
 
-This project is open source and maintained by Surrealine. Contributions are welcome!
+This project is open source. Contributions are welcome!
 
 ## Contributing
 
@@ -177,10 +171,6 @@ This project is open source and maintained by Surrealine. Contributions are welc
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Community
-
-Join our community on Discord: https://discord.gg/surrealine
-
 ---
 
-Thank you for using the Pipe POP Node Management Toolkit from Surrealine!
+Thank you for using the Pipe POP Node Management Toolkit from Preterag!
